@@ -19,6 +19,13 @@ body {
     align-items: center;
     margin-top: 20px;
 }
+.imageSection img{
+    width: 100%;
+    max-width: 600px;
+    height: 250px;
+    border-radius: 15px;
+    padding: 10px;
+}
 header {
     background: #3c4cd7;
     color: #ffffff;

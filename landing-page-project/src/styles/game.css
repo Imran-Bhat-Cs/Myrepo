@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+#gameCanvas{
+    background-color: #5334ce;
+    border: 2px solid #333;
+}
